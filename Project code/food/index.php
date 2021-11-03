@@ -1,6 +1,6 @@
 <?php include('partials-front/menu.php'); ?>
 
-    <!-- fOOD sEARCH Section Starts Here -->
+    
     <section class="food-search text-center">
         <div class="container">
             
@@ -11,7 +11,7 @@
 
         </div>
     </section>
-    <!-- fOOD sEARCH Section Ends Here -->
+    
 
     <?php 
     
@@ -23,7 +23,7 @@
 
     ?>
 
-    <!-- CAtegories Section Starts Here -->
+    
     <section class="categories">
         <div class="container">
             <h2 class="text-center">Explore Foods</h2>
@@ -80,9 +80,7 @@
             <div class="clearfix"></div>
         </div>
     </section>
-    <!-- Categories Section Ends Here -->
-
-    <!-- fOOD MEnu Section Starts Here -->
+    
     <section class="food-menu">
         <div class="container">
             <h2 class="text-center">Food Menu</h2>
@@ -160,6 +158,6 @@
             <a href="<?php echo SITEURL; ?>foods.php">See All Foods</a>
         </p>
     </section>
-    <!-- fOOD Menu Section Ends Here -->
+    
 
 <?php include('partials-front/footer.php'); ?>
